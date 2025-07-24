@@ -72,10 +72,13 @@ Set how strongly the artistic style is applied.
 
 | Prompt | Stylized Output |
 |--------|-----------------|
-| "A fantasy castle at sunrise" | ![sample](assets/sample_output.png) |
+| "f1 car" | ![sample](https://github.com/SparshKhandelwal103/ZenSpark/blob/main/zo3.webp) |
 
-(Replace with your actual outputs or gifs)
 
+![sample](https://github.com/SparshKhandelwal103/ZenSpark/blob/main/zss1.png)
+![sample](https://github.com/SparshKhandelwal103/ZenSpark/blob/main/zss2.png)
+![sample](https://github.com/SparshKhandelwal103/ZenSpark/blob/main/zss3.png)
+![sample](https://github.com/SparshKhandelwal103/ZenSpark/blob/main/zss4.png)
 
 ## 🚀 Installation & Setup
 
