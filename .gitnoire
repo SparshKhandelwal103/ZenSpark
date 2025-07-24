@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab and Jupyter metadata
+*.nbconvert.ipynb
+*.nbmetadata
+*.ipynb~*
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Gradio cache
+gradio_cached_examples/
+gradio_cache/
+__results__/
+
+# Model weights or large data
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.joblib
+*.tflite
+*.pb
+*.onnx
+
+# Hugging Face cache
+~/.cache/huggingface/
+~/.huggingface/
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Output / generated images
+outputs/
+generated_images/
+*.png
+*.jpg
+*.jpeg
+
+# Secrets / credentials
+*.env
+secrets.json
+credentials.json
+
+# PyInstaller
+dist/
+build/
+*.spec
